@@ -1,5 +1,9 @@
-res://scenes/FloorMaterialShader.gdshader
-res://scenes/Player/Player.tscn
-res://scenes/Player/PlayerScene.tscn
 res://scenes/Player/Scene.tscn
 res://scenes/Player/Script.cs
+res://scenes/MainScene/Scene.tscn
+res://scenes/Player/Player.tscn
+res://scenes/Player/Player.cs
+res://scenes/MainScene/Main.tscn
+res://scenes/Mobs/Mob.tscn
+res://scenes/Mobs/Mob.cs
+res://scenes/MainScene/Main.cs

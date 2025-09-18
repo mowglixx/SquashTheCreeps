@@ -1,6 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1758208550
+::res://::1758211992
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1744386698::1757895154::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+README.md::TextFile/TextFile::-1::1758210269::0::1::::<><><>0<>0<><>::
 ::res://art/::1757895155
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
@@ -14,8 +15,8 @@ pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><
 LICENSE.txt::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1744386698::1757895154::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
 ::res://scenes/::1758208536
-::res://scenes/MainScene/::1758208545
-Scene.tscn::PackedScene::5908942567995036733::1758206471::0::1::::<><><>0<>0<><>::
-::res://scenes/Player/::1758208550
-PlayerScript.cs::CSharpScript/CSharpScript::6631177154618188800::1758208366::0::1::::<><><>0<>0<><>::
-Scene.tscn::PackedScene::4139171857182694798::1758208557::0::1::::<><><>0<>0<><>::uid://c1qgrv4hncwx1::::res://scenes/Player/PlayerScript.cs<>uid://d0ypm0v45pwdv::::res://art/player.glb
+::res://scenes/MainScene/::1758212952
+Scene.tscn::PackedScene::5908942567995036733::1758212952::0::1::::<><><>0<>0<><>::uid://by8bs5pdaxhmc::::res://scenes/Player/Player.tscn
+::res://scenes/Player/::1758212953
+Player.cs::CSharpScript::6631177154618188800::1758212968::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Player.tscn::PackedScene::4139171857182694798::1758212953::0::1::::<><><>0<>0<><>::uid://c1qgrv4hncwx1::::res://scenes/Player/Player.cs<>uid://d0ypm0v45pwdv::::res://art/player.glb
