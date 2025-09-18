@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mowglixx/git/SquashTheCreeps/Squash the Creeps (3D).csproj": {}
+  },
+  "projects": {
+    "/home/mowglixx/git/SquashTheCreeps/Squash the Creeps (3D).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mowglixx/git/SquashTheCreeps/Squash the Creeps (3D).csproj",
+        "projectName": "Squash the Creeps (3D)",
+        "projectPath": "/home/mowglixx/git/SquashTheCreeps/Squash the Creeps (3D).csproj",
+        "packagesPath": "/home/mowglixx/.nuget/packages/",
+        "outputPath": "/home/mowglixx/git/SquashTheCreeps/.godot/mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mowglixx/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Godot.SourceGenerators": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "GodotSharp": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "GodotSharpEditor": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
